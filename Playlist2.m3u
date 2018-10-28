@@ -1,0 +1,119 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://www.nb876.com/tvpic/cctv1.jpg" group-title="CCTV",CCTV-1
+http://ipv6.bjtu.edu.cn/hls/cctv1.m3u8
+#EXTINF:-1 tvg-logo="http://www.nb876.com/tvpic/cctv1.jpg" group-title="CCTV-HD",CCTV-1 HD
+http://ipv6.bjtu.edu.cn/hls/cctv1hd.m3u8
+#EXTINF:-1 tvg-logo="http://www.nb876.com/tvpic/cctv10.jpg" group-title="CCTV",CCTV-10
+http://ipv6.bjtu.edu.cn/hls/cctv10.m3u8
+#EXTINF:-1 tvg-logo="http://www.nb876.com/tvpic/cctv10.jpg" group-title="CCTV-HD",CCTV-10 HD
+http://ipv6.bjtu.edu.cn/hls/cctv10hd.m3u8
+#EXTINF:-1 tvg-logo="http://www.nb876.com/tvpic/cctv11.jpg" group-title="CCTV",CCTV-11
+http://ipv6.bjtu.edu.cn/hls/cctv11.m3u8
+#EXTINF:-1 tvg-logo="http://www.nb876.com/tvpic/cctv12.jpg" group-title="CCTV",CCTV-12
+http://ipv6.bjtu.edu.cn/hls/cctv12.m3u8
+#EXTINF:-1 tvg-logo="http://www.nb876.com/tvpic/cctv12.jpg" group-title="CCTV-HD",CCTV-12 HD
+http://ipv6.bjtu.edu.cn/hls/cctv12hd.m3u8
+#EXTINF:-1 tvg-logo="http://www.nb876.com/tvpic/cctv13.jpg" group-title="CCTV",CCTV-13 News
+http://ipv6.bjtu.edu.cn/hls/cctv13.m3u8
+#EXTINF:-1 tvg-logo="http://www.nb876.com/tvpic/cctv14.jpg" group-title="CCTV",CCTV-14
+http://ipv6.bjtu.edu.cn/hls/cctv14.m3u8
+#EXTINF:-1 tvg-logo="http://www.nb876.com/tvpic/cctv14.jpg" group-title="CCTV-HD",CCTV-14 HD
+http://ipv6.bjtu.edu.cn/hls/cctv14hd.m3u8
+#EXTINF:-1 tvg-logo="http://www.nb876.com/tvpic/cctv15.jpg" group-title="CCTV",CCTV-15 Music
+http://ipv6.bjtu.edu.cn/hls/cctv15.m3u8
+#EXTINF:-1 tvg-logo="http://www.nb876.com/tvpic/cctv2.jpg" group-title="CCTV",CCTV-2
+http://ipv6.bjtu.edu.cn/hls/cctv2.m3u8
+#EXTINF:-1 tvg-logo="http://www.nb876.com/tvpic/cctv2.jpg" group-title="CCTV-HD",CCTV-2 HD
+http://ipv6.bjtu.edu.cn/hls/cctv2hd.m3u8
+#EXTINF:-1 tvg-logo="http://www.nb876.com/tvpic/cctv3.jpg" group-title="CCTV",CCTV-3
+http://ipv6.bjtu.edu.cn/hls/cctv3.m3u8
+#EXTINF:-1 tvg-logo="http://www.nb876.com/tvpic/cctv3.jpg" group-title="CCTV-HD",CCTV-3 HD
+http://ipv6.bjtu.edu.cn/hls/cctv3hd.m3u8
+#EXTINF:-1 tvg-logo="http://www.nb876.com/tvpic/cctv4.jpg" group-title="CCTV",CCTV-4
+http://ipv6.bjtu.edu.cn/hls/cctv4.m3u8
+#EXTINF:-1 tvg-logo="http://www.nb876.com/tvpic/cctv4.jpg" group-title="CCTV-HD",CCTV-4 HD
+http://ipv6.bjtu.edu.cn/hls/cctv4hd.m3u8
+#EXTINF:-1 tvg-logo="http://www.nb876.com/tvpic/cctv5.jpg" group-title="CCTV",CCTV-5
+http://ipv6.bjtu.edu.cn/hls/cctv5.m3u8
+#EXTINF:-1 tvg-logo="http://www.nb876.com/tvpic/cctv5.jpg" group-title="CCTV-HD",CCTV-5 HD
+http://ipv6.bjtu.edu.cn/hls/cctv5hd.m3u8
+#EXTINF:-1 tvg-logo="http://www.nb876.com/tvpic/cctv5plus.jpg" group-title="CCTV-HD",CCTV-5+ HD
+http://ipv6.bjtu.edu.cn/hls/cctv5phd.m3u8
+#EXTINF:-1 tvg-logo="http://www.nb876.com/tvpic/cctv6.jpg"  group-title="CCTV",CCTV-6
+http://ipv6.bjtu.edu.cn/hls/cctv6.m3u8
+#EXTINF:-1 tvg-logo="http://www.nb876.com/tvpic/cctv6.jpg" group-title="CCTV-HD",CCTV-6 HD
+http://ipv6.bjtu.edu.cn/hls/cctv6hd.m3u8
+#EXTINF:-1 tvg-logo="http://www.nb876.com/tvpic/cctv7.jpg" group-title="CCTV",CCTV-7
+http://ipv6.bjtu.edu.cn/hls/cctv7.m3u8
+#EXTINF:-1 tvg-logo="http://www.nb876.com/tvpic/cctv7.jpg" group-title="CCTV-HD",CCTV-7 HD
+http://ipv6.bjtu.edu.cn/hls/cctv7hd.m3u8
+#EXTINF:-1 tvg-logo="http://www.nb876.com/tvpic/cctv8.jpg" group-title="CCTV",CCTV-8
+http://ipv6.bjtu.edu.cn/hls/cctv8.m3u8
+#EXTINF:-1 tvg-logo="http://www.nb876.com/tvpic/cctv8.jpg" group-title="CCTV-HD",CCTV-8 HD
+http://ipv6.bjtu.edu.cn/hls/cctv8hd.m3u8
+#EXTINF:-1 tvg-logo="http://www.nb876.com/tvpic/cctv9.jpg" group-title="CCTV",CCTV-9
+http://ipv6.bjtu.edu.cn/hls/cctv9.m3u8
+#EXTINF:-1 tvg-logo="http://www.nb876.com/tvpic/cctv9.jpg" group-title="CCTV-HD",CCTV-9 HD
+http://ipv6.bjtu.edu.cn/hls/cctv9hd.m3u8
+#EXTINF:-1 tvg-logo="http://www.nb876.com/tvpic/cctv9.jpg" group-title="Other",CGTN HD
+http://ipv6.bjtu.edu.cn/hls/cgtnhd.m3u8
+#EXTINF:-1 tvg-logo="http://www.nb876.com/tvpic/chchd.jpg" group-title="Other",CHC HD
+http://ipv6.bjtu.edu.cn/hls/chchd.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/docutv.jpg" group-title="Other",DocuChina HD
+http://ipv6.bjtu.edu.cn/hls/docuchina.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/dongfang.jpg" group-title="Other",Dongfang HD
+http://ipv6.bjtu.edu.cn/hls/dfhd.m3u8
+#EXTINF:-1 tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1P512164S50-L.jpg" group-title="Other",Documentary HD
+http://ipv6.bjtu.edu.cn/hls/documentaryhd.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/btv6.jpg" group-title="Other",BTV6 HD
+http://ipv6.bjtu.edu.cn/hls/btv6hd.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/beijingtv.jpg" group-title="Other",BTV1 HD
+http://ipv6.bjtu.edu.cn/hls/btv1hd.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/btv4.jpg" group-title="Other",BTV4 HD
+http://ipv6.bjtu.edu.cn/hls/btv4hd.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/btv2.jpg" group-title="Other",BTV2 HD
+http://ipv6.bjtu.edu.cn/hls/btv2hd.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/btv9.jpg" group-title="Other",BTV9 HD
+http://ipv6.bjtu.edu.cn/hls/btv9hd.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/btv11.jpg" group-title="Other",BTV11 HD
+http://ipv6.bjtu.edu.cn/hls/btv11hd.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/sichuantv.jpg" group-title="Other",Sichuan HD
+http://ipv6.bjtu.edu.cn/hls/schd.m3u8
+#EXTINF:-1 tvg-logo="https://goodpitch.org/uploads/cache/org_image/max_600_400_log.jpg" group-title="Other",NATGEO
+http://ipv6.bjtu.edu.cn/hls/natlgeo.m3u8
+#EXTINF:-1 tvg-logo="http://www.nb876.com/tvpic/tjws.jpg" group-title="Other",Tianjin HD
+http://ipv6.bjtu.edu.cn/hls/tjhd.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/anhuitv.jpg" group-title="Other",Anhui HD
+http://ipv6.bjtu.edu.cn/hls/ahhd.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/shandongtv.jpg" group-title="Other",Shandong HD
+http://ipv6.bjtu.edu.cn/hls/sdhd.m3u8
+#EXTINF:-1 tvg-logo="http://www.nb876.com/tvpic/gdws.jpg" group-title="Other",Guangdong HD
+http://ipv6.bjtu.edu.cn/hls/gdhd.m3u8
+#EXTINF:-1 tvg-logo="https://www.discoverychannelasia.com/content/dam/discovery/apac/asia/dsc/logo/DSC-logo3.png" group-title="Other",Discovery
+http://ipv6.bjtu.edu.cn/hls/discovery.m3u8
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/zh/thumb/0/05/Travel_Channel_Logo.png/440px-Travel_Channel_Logo.png" group-title="Other",Lvyou
+http://ipv6.bjtu.edu.cn/hls/lytv.m3u8
+#EXTINF:-1 tvg-logo="http://www.nb876.com/tvpic/jsws.jpg" group-title="Other",Jiangsu HD
+http://ipv6.bjtu.edu.cn/hls/jshd.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/jiangxitv.jpg" group-title="Other",Jiangxi HD
+http://ipv6.bjtu.edu.cn/hls/jxhd.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hebeitv.jpg" group-title="Other",Hebei HD
+http://ipv6.bjtu.edu.cn/hls/hebhd.m3u8
+#EXTINF:-1 tvg-logo="http://www.nb876.com/tvpic/szws.jpg" group-title="Other",Shenzhen HD
+http://ipv6.bjtu.edu.cn/hls/szhd.m3u8
+#EXTINF:-1 tvg-logo="http://www.nb876.com/tvpic/hbws.jpg" group-title="Other",Hubei HD
+http://ipv6.bjtu.edu.cn/hls/hbhd.m3u8
+#EXTINF:-1 tvg-logo="http://www.nb876.com/tvpic/hnws.jpg" group-title="Other",Hunan HD
+http://ipv6.bjtu.edu.cn/hls/hunanhd.m3u8
+#EXTINF:-1 tvg-logo="http://www.nb876.com/tvpic/dnws.jpg" group-title="Other",Fujian HD
+http://ipv6.bjtu.edu.cn/hls/dnhd.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/liaoningtv.jpg" group-title="Other",Liaoning HD
+http://ipv6.bjtu.edu.cn/hls/lnhd.m3u8
+#EXTINF:-1 tvg-logo="http://www.nettv.live/uploads/18/1-1P9262356244Q.jpg" group-title="Other",Chonqing HD
+http://ipv6.bjtu.edu.cn/hls/cqhd.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/jyjs.jpg" group-title="Other",JYdocu HD
+http://ipv6.bjtu.edu.cn/hls/gedocu.m3u8
+#EXTINF:-1 tvg-logo="http://www.nb876.com/tvpic/hljws.jpg" group-title="Other",Heilongjiang HD
+http://ipv6.bjtu.edu.cn/hls/hljhd.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/zhejiangtv.jpg" group-title="Other",Zhejiang HD
+http://ipv6.bjtu.edu.cn/hls/zjhd.m3u8
