@@ -117,3 +117,11 @@ http://ipv6.bjtu.edu.cn/hls/gedocu.m3u8
 http://ipv6.bjtu.edu.cn/hls/hljhd.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/zhejiangtv.jpg" group-title="Other",Zhejiang HD
 http://ipv6.bjtu.edu.cn/hls/zjhd.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/fhzxt.jpg" group-title="Other",Phoenix News
+http://223.110.243.165/ott.js.chinamobile.com/PLTV/2510088/224/3221227163/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/fhzwt.jpg" group-title="Other",Phoenix CN
+http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/fhxgt.jpg" group-title="Other",Phoenix HK
+http://223.110.243.165/ott.js.chinamobile.com/PLTV/2510088/224/3221227183/index.m3u8
+#EXTINF:-1 tvg-logo="https://api.themediaant.com/images/medias/5b711288c7fbb343d4f4c331/87f589027d5620f2e5853709bde40098.png" group-title="Other",Flix HD
+http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
